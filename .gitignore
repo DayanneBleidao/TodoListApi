@@ -1,0 +1,13 @@
+# Build & bin
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Impedir que arquivos sensíveis sejam versionados
+appsettings.json
+appsettings.Development.json
+
+.vs/
